@@ -1,0 +1,507 @@
+[
+  {
+    "number": "1.",
+    "name": "თბილისი",
+    "population": "1 227 811 (2024)",
+    "status_year": "1801",
+    "region": "თბილისი",
+    "id": 1
+  },
+  {
+    "number": "2.",
+    "name": "ბათუმი",
+    "population": "183 181 (2024)",
+    "status_year": "1878",
+    "region": "აჭარის არ",
+    "id": 2
+  },
+  {
+    "number": "3.",
+    "name": "რუსთავი",
+    "population": "127 154 (2024)",
+    "status_year": "1948",
+    "region": "ქვემო ქართლი",
+    "id": 3
+  },
+  {
+    "number": "4.",
+    "name": "ქუთაისი",
+    "population": "125 589 (2024)",
+    "status_year": "1811",
+    "region": "იმერეთი",
+    "id": 4
+  },
+  {
+    "number": "5.",
+    "name": "გორი",
+    "population": "42 596 (2024)",
+    "status_year": "1801",
+    "region": "შიდა ქართლი",
+    "id": 5
+  },
+  {
+    "number": "6.",
+    "name": "ფოთი",
+    "population": "41 170 (2024)",
+    "status_year": "1858",
+    "region": "სამეგრელო/ზემო სვანეთი",
+    "id": 6
+  },
+  {
+    "number": "7.",
+    "name": "ზუგდიდი",
+    "population": "40 100 (2024)",
+    "status_year": "1918",
+    "region": "სამეგრელო/ზემო სვანეთი",
+    "id": 7
+  },
+  {
+    "number": "8.",
+    "name": "მარნეული",
+    "population": "25 752 (2024)",
+    "status_year": "1964",
+    "region": "ქვემო ქართლი",
+    "id": 8
+  },
+  {
+    "number": "9.",
+    "name": "ხაშური",
+    "population": "24 131 (2024)",
+    "status_year": "1921",
+    "region": "შიდა ქართლი",
+    "id": 9
+  },
+  {
+    "number": "10.",
+    "name": "სამტრედია",
+    "population": "21 063 (2024)",
+    "status_year": "1921",
+    "region": "იმერეთი",
+    "id": 10
+  },
+  {
+    "number": "11.",
+    "name": "ზესტაფონი",
+    "population": "20 212 (2024)",
+    "status_year": "1926",
+    "region": "იმერეთი",
+    "id": 11
+  },
+  {
+    "number": "12.",
+    "name": "თელავი",
+    "population": "19 737 (2024)",
+    "status_year": "1801",
+    "region": "კახეთი",
+    "id": 12
+  },
+  {
+    "number": "13.",
+    "name": "ქობულეთი",
+    "population": "17 372 (2024)",
+    "status_year": "1944",
+    "region": "აჭარის არ",
+    "id": 13
+  },
+  {
+    "number": "14.",
+    "name": "ახალციხე",
+    "population": "17 287 (2024)",
+    "status_year": "1840",
+    "region": "სამცხე-ჯავახეთი",
+    "id": 14
+  },
+  {
+    "number": "15.",
+    "name": "სენაკი",
+    "population": "15 652 (2024)",
+    "status_year": "1921",
+    "region": "სამეგრელო/ზემო სვანეთი",
+    "id": 15
+  },
+  {
+    "number": "16.",
+    "name": "ოზურგეთი",
+    "population": "13 973 (204)",
+    "status_year": "1840",
+    "region": "გურია",
+    "id": 16
+  },
+  {
+    "number": "17.",
+    "name": "კასპი",
+    "population": "12 415 (2024)",
+    "status_year": "1959",
+    "region": "შიდა ქართლი",
+    "id": 17
+  },
+  {
+    "number": "18.",
+    "name": "ჭიათურა",
+    "population": "12 089 (2024)",
+    "status_year": "1921",
+    "region": "იმერეთი",
+    "id": 18
+  },
+  {
+    "number": "19.",
+    "name": "გარდაბანი",
+    "population": "12 061 (2024)",
+    "status_year": "1969",
+    "region": "ქვემო ქართლი",
+    "id": 19
+  },
+  {
+    "number": "20.",
+    "name": "ბორჯომი",
+    "population": "11 173 (2024)",
+    "status_year": "1918",
+    "region": "სამცხე-ჯავახეთი",
+    "id": 20
+  },
+  {
+    "number": "21.",
+    "name": "საგარეჯო",
+    "population": "10 134 (2024)",
+    "status_year": "1962",
+    "region": "კახეთი",
+    "id": 21
+  },
+  {
+    "number": "22.",
+    "name": "ყვარელი",
+    "population": "9 880 (2024)",
+    "status_year": "1964",
+    "region": "კახეთი",
+    "id": 22
+  },
+  {
+    "number": "23.",
+    "name": "ბოლნისი",
+    "population": "8 348 (2024)",
+    "status_year": "1967",
+    "region": "ქვემო ქართლი",
+    "id": 23
+  },
+  {
+    "number": "24.",
+    "name": "ტყიბული",
+    "population": "8 130 (2024)",
+    "status_year": "1939",
+    "region": "იმერეთი",
+    "id": 24
+  },
+  {
+    "number": "25.",
+    "name": "ხონი",
+    "population": "7 756 (2024)",
+    "status_year": "1921",
+    "region": "იმერეთი",
+    "id": 25
+  },
+  {
+    "number": "26.",
+    "name": "წყალტუბო",
+    "population": "7 738 (2024)",
+    "status_year": "1953",
+    "region": "იმერეთი",
+    "id": 26
+  },
+  {
+    "number": "27.",
+    "name": "ახალქალაქი",
+    "population": "7 483 (2024)",
+    "status_year": "1064",
+    "region": "სამცხე-ჯავახეთი",
+    "id": 27
+  },
+  {
+    "number": "28.",
+    "name": "მცხეთა",
+    "population": "7 392 (2024)",
+    "status_year": "1956",
+    "region": "მცხეთა-მთიანეთი",
+    "id": 28
+  },
+  {
+    "number": "29.",
+    "name": "გურჯაანი",
+    "population": "7 261 (2024)",
+    "status_year": "1934",
+    "region": "კახეთი",
+    "id": 29
+  },
+  {
+    "number": "30.",
+    "name": "დუშეთი",
+    "population": "7 238 (2024)",
+    "status_year": "1801",
+    "region": "მცხეთა-მთიანეთი",
+    "id": 30
+  },
+  {
+    "number": "31.",
+    "name": "ქარელი",
+    "population": "6 775 (2024)",
+    "status_year": "1981",
+    "region": "შიდა ქართლი",
+    "id": 31
+  },
+  {
+    "number": "32.",
+    "name": "ლანჩხუთი",
+    "population": "6 213 (2024)",
+    "status_year": "1961",
+    "region": "გურია",
+    "id": 32
+  },
+  {
+    "number": "33.",
+    "name": "ახმეტა",
+    "population": "5 795 (2024)",
+    "status_year": "1966",
+    "region": "კახეთი",
+    "id": 33
+  },
+  {
+    "number": "34.",
+    "name": "ლაგოდეხი",
+    "population": "5 614 (2024)",
+    "status_year": "1962",
+    "region": "კახეთი",
+    "id": 34
+  },
+  {
+    "number": "35.",
+    "name": "საჩხერე",
+    "population": "5 329 (2014)",
+    "status_year": "1964",
+    "region": "იმერეთი",
+    "id": 35
+  },
+  {
+    "number": "36.",
+    "name": "დედოფლისწყარო",
+    "population": "5 490 (2024)",
+    "status_year": "1963",
+    "region": "კახეთი",
+    "id": 36
+  },
+  {
+    "number": "37.",
+    "name": "ვალე",
+    "population": "5 019 (2024)",
+    "status_year": "1962",
+    "region": "სამცხე-ჯავახეთი",
+    "id": 37
+  },
+  {
+    "number": "38.",
+    "name": "თერჯოლა",
+    "population": "4 818 (2024)",
+    "status_year": "1983",
+    "region": "იმერეთი",
+    "id": 38
+  },
+  {
+    "number": "39.",
+    "name": "წნორი",
+    "population": "4 776 (2024)",
+    "status_year": "1965",
+    "region": "კახეთი",
+    "id": 39
+  },
+  {
+    "number": "40.",
+    "name": "თეთრიწყარო",
+    "population": "4 762 (2024)",
+    "status_year": "1966",
+    "region": "ქვემო ქართლი",
+    "id": 40
+  },
+  {
+    "number": "41.",
+    "name": "აბაშა",
+    "population": "4 225 (2024)",
+    "status_year": "1964",
+    "region": "სამეგრელო/ზემო სვანეთი",
+    "id": 41
+  },
+  {
+    "number": "42.",
+    "name": "მარტვილი",
+    "population": "3 980 (2024)",
+    "status_year": "1982",
+    "region": "სამეგრელო/ზემო სვანეთი",
+    "id": 42
+  },
+  {
+    "number": "43.",
+    "name": "ნინოწმინდა",
+    "population": "3 955 (2024)",
+    "status_year": "1983",
+    "region": "სამცხე-ჯავახეთი",
+    "id": 43
+  },
+  {
+    "number": "44.",
+    "name": "წალკა",
+    "population": "3 708 (2024)",
+    "status_year": "1984",
+    "region": "ქვემო ქართლი",
+    "id": 44
+  },
+  {
+    "number": "45.",
+    "name": "ვანი",
+    "population": "3 209 (2024)",
+    "status_year": "1981",
+    "region": "იმერეთი",
+    "id": 45
+  },
+  {
+    "number": "46.",
+    "name": "ხობი",
+    "population": "3 098 (2024)",
+    "status_year": "1981",
+    "region": "სამეგრელო/ზემო სვანეთი",
+    "id": 46
+  },
+  {
+    "number": "47.",
+    "name": "დმანისი",
+    "population": "3 050 (2024)",
+    "status_year": "1981",
+    "region": "ქვემო ქართლი",
+    "id": 47
+  },
+  {
+    "number": "48.",
+    "name": "წალენჯიხა",
+    "population": "3 013 (2024)",
+    "status_year": "1964",
+    "region": "სამეგრელო/ზემო სვანეთი",
+    "id": 48
+  },
+  {
+    "number": "49.",
+    "name": "ბაღდათი",
+    "population": "2 511 (2024)",
+    "status_year": "1981",
+    "region": "იმერეთი",
+    "id": 49
+  },
+  {
+    "number": "50.",
+    "name": "ონი",
+    "population": "2 498 (2024)",
+    "status_year": "1846",
+    "region": "რაჭა-ლეჩხუმი/ქვემო სვანეთი",
+    "id": 50
+  },
+  {
+    "number": "51.",
+    "name": "ჩხოროწყუ",
+    "population": "2 452 (2024)",
+    "status_year": "2018",
+    "region": "სამეგრელო/ზემო სვანეთი",
+    "id": 51
+  },
+  {
+    "number": "52.",
+    "name": "ამბროლაური",
+    "population": "1 961 (2024)",
+    "status_year": "1966",
+    "region": "რაჭა-ლეჩხუმი/ქვემო სვანეთი",
+    "id": 52
+  },
+  {
+    "number": "53.",
+    "name": "სიღნაღი",
+    "population": "1 420 (2024)",
+    "status_year": "1801",
+    "region": "კახეთი",
+    "id": 53
+  },
+  {
+    "number": "54.",
+    "name": "ჯვარი",
+    "population": "1206 (2024)",
+    "status_year": "1981",
+    "region": "სამეგრელო/ზემო სვანეთი",
+    "id": 54
+  },
+  {
+    "number": "55.",
+    "name": "ცაგერი",
+    "population": "1 028 (2024)",
+    "status_year": "1968",
+    "region": "რაჭა-ლეჩხუმი/ქვემო სვანეთი",
+    "id": 55
+  },
+
+  {
+    "id": 56,
+    "number": "56",
+    "name": "სოხუმი",
+    "population": "65 146 (2022)",
+    "status_year": "1848",
+    "region": "აფხაზეთი"
+  },
+  {
+    "id": 57,
+    "number": "57",
+    "name": "ცხინვალი",
+    "population": "32 699 (2020)",
+    "status_year": "1922",
+    "region": "ყოფილი სამხრეთ ოსეთის ავტონომიური ოლქი"
+  },
+  {
+    "id": 58,
+    "number": "58",
+    "name": "გაგრა",
+    "population": "11 807 (2022)",
+    "status_year": "1933",
+    "region": "აფხაზეთი"
+  },
+  {
+    "id": 59,
+    "number": "59",
+    "name": "გუდაუთა",
+    "population": "8 752 (2022)",
+    "status_year": "1926",
+    "region": "აფხაზეთი"
+  },
+  {
+    "id": 60,
+    "number": "60",
+    "name": "გალი",
+    "population": "7 452 (2022)",
+    "status_year": "1932",
+    "region": "აფხაზეთი"
+  },
+  {
+    "id": 61,
+    "number": "61",
+    "name": "ოჩამჩირე",
+    "population": "5 238 (2022)",
+    "status_year": "1926",
+    "region": "აფხაზეთი"
+  },
+  {
+    "id": 62,
+    "number": "62",
+    "name": "ტყვარჩელი",
+    "population": "5 044 (2022)",
+    "status_year": "1942",
+    "region": "აფხაზეთი"
+  },
+  {
+    "id": 63,
+    "number": "63",
+    "name": "ახალი ათონი",
+    "population": "1 519 (2022)",
+    "status_year": "1991",
+    "region": "აფხაზეთი"
+  }
+]
