@@ -1,0 +1,39 @@
+# Cities Data Collection
+
+This directory contains information about cities, including their Wikipedia references and related data.
+
+## Structure
+- Each city entry includes:
+  - Wikipedia link
+  - Population data
+  - Geographic coordinates
+  - Administrative status
+  - Historical information
+
+## Usage
+The data can be used for:
+- Urban planning research
+- Demographic studies
+- Geographic information systems
+- Municipal reference
+
+---
+
+# ქალაქების მონაცემთა კოლექცია
+
+ეს დირექტორია შეიცავს ინფორმაციას ქალაქების შესახებ, მათ შორის ვიკიპედიის ბმულებს და დაკავშირებულ მონაცემებს.
+
+## სტრუქტურა
+- თითოეული ქალაქის ჩანაწერი მოიცავს:
+  - ვიკიპედიის ბმულს
+  - მოსახლეობის მონაცემებს
+  - გეოგრაფიულ კოორდინატებს
+  - ადმინისტრაციულ სტატუსს
+  - ისტორიულ ინფორმაციას
+
+## გამოყენება
+მონაცემები შეიძლება გამოყენებულ იქნას:
+- ურბანული დაგეგმარების კვლევისთვის
+- დემოგრაფიული კვლევებისთვის
+- გეოგრაფიული საინფორმაციო სისტემებისთვის
+- მუნიციპალური საცნობარო მიზნებისთვის
