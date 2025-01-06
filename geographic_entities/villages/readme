@@ -1,0 +1,35 @@
+# Villages Data Collection
+
+This directory contains information about villages, including their Wikipedia references and related data.
+
+## Structure
+- Each village entry includes:
+  - Wikipedia link
+  - Additional reference data
+  - Geographic information
+
+## Usage
+The data can be used for:
+- Research purposes
+- Geographic information systems
+- Historical documentation
+- Reference mapping
+
+---
+
+# სოფლების მონაცემთა კოლექცია
+
+ეს დირექტორია შეიცავს ინფორმაციას სოფლების შესახებ, მათ შორის ვიკიპედიის ბმულებს და დაკავშირებულ მონაცემებს.
+
+## სტრუქტურა
+- თითოეული სოფლის ჩანაწერი მოიცავს:
+  - ვიკიპედიის ბმულს
+  - დამატებით საცნობარო მონაცემებს
+  - გეოგრაფიულ ინფორმაციას
+
+## გამოყენება
+მონაცემები შეიძლება გამოყენებულ იქნას:
+- კვლევითი მიზნებისთვის
+- გეოგრაფიული საინფორმაციო სისტემებისთვის
+- ისტორიული დოკუმენტაციისთვის
+- საცნობარო რუკებისთვის
