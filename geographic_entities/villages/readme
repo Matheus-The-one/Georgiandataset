@@ -6,7 +6,7 @@ This directory contains information about villages, including their Wikipedia re
 - Each village entry includes:
   - Wikipedia link
   - Additional reference data
-  - Geographic information
+  - Population data
 
 ## Usage
 The data can be used for:
@@ -25,7 +25,7 @@ The data can be used for:
 - თითოეული სოფლის ჩანაწერი მოიცავს:
   - ვიკიპედიის ბმულს
   - დამატებით საცნობარო მონაცემებს
-  - გეოგრაფიულ ინფორმაციას
+  - მოსახლეობის მონაცემებს
 
 ## გამოყენება
 მონაცემები შეიძლება გამოყენებულ იქნას:

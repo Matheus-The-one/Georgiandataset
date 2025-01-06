@@ -6,9 +6,8 @@ This directory contains information about cities, including their Wikipedia refe
 - Each city entry includes:
   - Wikipedia link
   - Population data
-  - Geographic coordinates
   - Administrative status
-  - Historical information
+ 
 
 ## Usage
 The data can be used for:
@@ -27,9 +26,8 @@ The data can be used for:
 - თითოეული ქალაქის ჩანაწერი მოიცავს:
   - ვიკიპედიის ბმულს
   - მოსახლეობის მონაცემებს
-  - გეოგრაფიულ კოორდინატებს
   - ადმინისტრაციულ სტატუსს
-  - ისტორიულ ინფორმაციას
+ 
 
 ## გამოყენება
 მონაცემები შეიძლება გამოყენებულ იქნას:
